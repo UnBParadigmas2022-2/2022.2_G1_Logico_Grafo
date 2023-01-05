@@ -1,0 +1,8 @@
+version: "3.6"
+services:
+  grafo-pessoas:
+    stdin_open: true
+    tty: true
+    build:
+      context: .
+      dockerfile: Dockerfile
