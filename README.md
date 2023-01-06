@@ -45,12 +45,14 @@ Para parar o container em andamento:
 
 ### Manualmente
 Para instalar manualmente, você precisará do [swipl](https://www.swi-prolog.org/download/stable). Com ele instalado, basta executar  
-```swipl main.pl``` dentro da pasta src.
+```swipl grafo.pl``` dentro da pasta src.
 
 ## Uso 
-Explique como usar seu projeto.
-Procure ilustrar em passos, com apoio de telas do software, seja com base na interface gráfica, seja com base no terminal.
-Nessa seção, deve-se revelar de forma clara sobre o funcionamento do software.
+Para utilizar o projeto após a inicialização digite:
+
+    start.
+
+Após este comando o programa irá inicializar pedindo o nome da rede social. Após isso o usuário irá para o menu principal. A idéia é implementar o funcionamento de um grafo de rede social utilizando prolog. Conseguir adicionar amizade, desfazer amizade, apagar usuário e chegar em um usuário a partir de outro.
 
 ## Vídeo
 Adicione 1 ou mais vídeos com a execução do projeto.

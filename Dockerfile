@@ -1,4 +1,4 @@
 FROM swipl
 WORKDIR /app
 COPY ./src /app
-CMD ["swipl", "main.pl"]
+CMD ["swipl", "grafo.pl"]
