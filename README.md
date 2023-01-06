@@ -85,7 +85,7 @@ TEMPO: +/- 15min
 | ---------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------ |
 | Álvaro Gouveia -18/0012002		                                   |  Auxilio nas funções de adicionar usuário e relacionamento | Boa | 
 | Antônio Ferreira de Castro Neto - 19/0044799| Funcionalidades do grafo, tentativas de integração do algortimo de Dijkstra e atualizações no ReadMe.    | Boa                                                                            |
-| Davi Matheus da Rocha de Oliveira - 19/0042419	         |    -    | Boa                                                                            |
+| Davi Matheus da Rocha de Oliveira - 19/0042419	         |    Auxilio e complementação das funcionalidades de grafo e temtatova de integração do alogrtimo de Dijsktra e de um banco de dados mais robusto    | Boa                                                                            |
 | Francisco Emanoel Ferreira   - 17/0142329	              |  - | Boa                                                                             |
 |Guilherme Rogelin Vial	- 19/0014032	    |   -    | Boa                                                                       |
 | Liverson Furtado Severo	- 18/0022237	            |      -   | Boa                                                                          |
