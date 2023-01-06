@@ -83,7 +83,7 @@ TEMPO: +/- 15min
 ## Participações
 | Nome do Membro                           | Contribuição                                         | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
 | ---------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Álvaro Gouveia -18/0012002		                                   |  Auxilio nas funções de menu do sistema | Boa | 
+| Álvaro Gouveia -18/0012002		                                   |  Auxilio nas funções de adicionar usuário e relacionamento | Boa | 
 | Antônio Ferreira de Castro Neto - 19/0044799| Funcionalidades do grafo, tentativas de integração do algortimo de Dijkstra e atualizações no ReadMe.    | Boa                                                                            |
 | Davi Matheus da Rocha de Oliveira - 19/0042419	         |    -    | Boa                                                                            |
 | Francisco Emanoel Ferreira   - 17/0142329	              |  - | Boa                                                                             |
