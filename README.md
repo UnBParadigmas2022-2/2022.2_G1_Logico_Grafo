@@ -89,7 +89,7 @@ TEMPO: +/- 15min
 | Francisco Emanoel Ferreira   - 17/0142329	              |  - | Boa                                                                             |
 |Guilherme Rogelin Vial	- 19/0014032	    |   -    | Boa                                                                       |
 | Liverson Furtado Severo	- 18/0022237	            |      -   | Boa                                                                          |
-| Matheus Filipe Faria Alves de Andrade	- 14/0155350	 |   -    | Boa                                                                          |
+| Matheus Filipe Faria Alves de Andrade	- 14/0155350	 |   Auxílio na criação das funções de remoção de vértices e arestas   | Boa                                                                          |
 | Natanael Fernandes Coelho Filho	- 19/0058650	                 |    -   | Boa                                                                         |
 
 ## Outros 
