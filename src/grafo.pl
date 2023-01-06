@@ -17,6 +17,7 @@ menu(Graph) :- repeat,
 	write('2 - Criar um relacionamento'),nl,
 	write('3 - Remover um usuario'),nl,
 	write('4 - Remover um relacionamento'),nl,
+	write('5 - Listar amigos de um usuario'),nl,
 	write('8 - Printar grafo'),nl,
 	write('9 - Importar grupo 1 de Paradigmas de programacao'),nl,
 	write('0 - sair do programa'),nl,
@@ -47,6 +48,10 @@ escolha(4,Graph) :- write('Digite o primeiro usuario relacionamento que deseja r
 					write('Digite o segundo usuario relacionamento que deseja retirar:'),nl,
 					read(U2),
 					remove_aresta_bi(Graph,U1,U2),!.
+
+escolha(5,Graph) :- write('Digite o usuario que deseja listar as amizades'),nl,
+					read(User),
+					neighbors(Graph, User, Ns), !.
 
 escolha(8, Graph) :- write('Resultado da consulta ao seu grafo:'), nl,
 				lista_grafo(Graph),!.
@@ -105,6 +110,8 @@ novo_vertice(G, V) :-
 	!.
 
 % Remove vertice i
+
+remove_vertice(G,V) :- not(vertice(G,V)), write('usuario invalido!'),nl,!.
 
 remove_vertice(G, V):-
 	nonvar(G),
@@ -224,7 +231,7 @@ neighbors(G, V, Ns) :-
 	vertice(G, V),
 	Neighbor = aresta(G, V, _, _),
 	findall(Neighbor, Neighbor, Neighbors),
-	Ns = Neighbors.
+	Ns = Neighbors, listing(Ns),nl.
 
 % Output All Of Gs arestas
 lista_arestas(G) :-
