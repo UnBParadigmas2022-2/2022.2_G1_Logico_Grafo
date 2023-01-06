@@ -48,7 +48,6 @@ escolha(4,Graph) :- write('Digite o primeiro usuario relacionamento que deseja r
 					read(U2),
 					remove_aresta_bi(Graph,U1,U2),!.
 
-
 escolha(8, Graph) :- write('Resultado da consulta ao seu grafo:'), nl,
 				lista_grafo(Graph),!.
 
@@ -137,10 +136,13 @@ lista_vertices(G) :-
 	listing(vertice(G, _)).
 
 % Adiciona aresta ao grafo G, entre o vertice U e V, no sentido U -> V, caso nao seja informado peso sera = 1 
-nova_aresta_bi(G,U,V,_):-
+nova_aresta_bi(G,U,_,_):-
 	not(vertice(G,U)),
+	write('Usuario '), write(U), write(' invalido.') , nl, !.
+
+nova_aresta_bi(G,_,V,_):-
 	not(vertice(G,V)),
-	write('Usuarios invalidos.'), nl, !.
+	write('Usuario '), write(V), write(' invalido.') , nl, !.
 
 nova_aresta_bi(G,U,V,_):-
 	aresta(G,U,V,_),
