@@ -106,6 +106,8 @@ Quaisquer outras informações sobre o projeto podem ser descritas aqui. Não es
    * Alguns membros tiveram mais facilidade no paradigma, logo os mesmo ficaram mais ativos no projeto.
   
 * Trabalhos Futuros.
-   * Implementar o algoritmo de busca, tentamos implementar o algoritmo de Dijkstra porém encontramos algumas dificuldades, caso alguém queira terminar implementação fique atento com o tamanho da base dados e lembra de deixar os métodos o mais eficiente possível, caso você não faça isso, é bem provável que leve erro de estouro da memória heap.
+   * Implementar o algoritmo de busca, tentamos implementar o algoritmo de Dijkstra porém encontramos algumas dificuldades, caso alguém queira terminar implementação fique atento com o tamanho da base dados e lembra de deixar os métodos o mais eficiente possível, caso você não faça isso, é bem provável que leve erro de estouro da memória heap. Segue abaixo o print do erro relacionado a estouro da memoria heap.
+
+![](https://raw.githubusercontent.com/francisco1code/Files/main/prints/photo_2023-01-06_21-25-58.jpg)
 ## Fontes
 - swi=prolog: https://www.swi-prolog.org/
