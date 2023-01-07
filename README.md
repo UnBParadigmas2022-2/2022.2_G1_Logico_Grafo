@@ -88,7 +88,7 @@ TEMPO: +/- 15min
 | Davi Matheus da Rocha de Oliveira - 19/0042419	         |    Auxilio e complementação das funcionalidades de grafo e temtatova de integração do alogrtimo de Dijsktra e de um banco de dados mais robusto    | Boa                                                                            |
 | Francisco Emanoel Ferreira   - 17/0142329	              |  - | Boa                                                                             |
 |Guilherme Rogelin Vial	- 19/0014032	    |   -    | Boa                                                                       |
-| Liverson Furtado Severo	- 18/0022237	            |      -   | Boa                                                                          |
+| Liverson Furtado Severo	- 18/0022237	            | Criação da inicialização e menu do programa, adição de prevenções de erros do programa nos métodos de criar e retirar usuários e relacionamentos, correção do documento a rodar no dockerfile e atualização de algumas informações no REAME | Boa                                                                          |
 | Matheus Filipe Faria Alves de Andrade	- 14/0155350	 |   Auxílio na criação das funções de remoção de vértices e arestas   | Boa                                                                          |
 | Natanael Fernandes Coelho Filho	- 19/0058650	                 |    -   | Boa                                                                         |
 
