@@ -87,18 +87,25 @@ TEMPO: +/- 15min
 | Álvaro Gouveia -18/0012002		                                   |  Auxilio nas funções de adicionar usuário e relacionamento | Boa | 
 | Antônio Ferreira de Castro Neto - 19/0044799| Funcionalidades do grafo, tentativas de integração do algortimo de Dijkstra e atualizações no ReadMe.    | Boa                                                                            |
 | Davi Matheus da Rocha de Oliveira - 19/0042419	         |    Auxilio e complementação das funcionalidades de grafo e temtatova de integração do alogrtimo de Dijsktra e de um banco de dados mais robusto    | Boa                                                                            |
-| Francisco Emanoel Ferreira   - 17/0142329	              |  - | Boa                                                                             |
+| Francisco Emanoel Ferreira   - 17/0142329	              |  Criação da primeira versão do algorito de Dijsktra com algumas adaptações e Escrever algumas descrição no Readme.  | Boa                                                                             |
 |Guilherme Rogelin Vial	- 19/0014032	    |   -    | Boa                                                                       |
 | Liverson Furtado Severo	- 18/0022237	            | Criação da inicialização e menu do programa, adição de prevenções de erros do programa nos métodos de criar e retirar usuários e relacionamentos, correção do documento a rodar no dockerfile e atualização de algumas informações no REAME | Boa                                                                          |
 | Matheus Filipe Faria Alves de Andrade	- 14/0155350	 |   Auxílio na criação das funções de remoção de vértices e arestas   | Boa                                                                          |
 | Natanael Fernandes Coelho Filho	- 19/0058650	                 |    -   | Boa                                                                         |
 
-## Outros 
+## Outros
 Quaisquer outras informações sobre o projeto podem ser descritas aqui. Não esqueça, entretanto, de informar sobre:
-(i) Lições Aprendidas;
-(ii) Percepções;
-(iii) Contribuições e Fragilidades, e
-(iV) Trabalhos Futuros.
-
+* Lições Aprendidas:
+   * Entendendo os alguns conceitos do  paradigma lógico
+   * Entendendo os princípios da sintaxe e semântica da linguagem prolog.
+ 
+* Percepções:
+   * Por estamos acostumados com outros tipos de paradigmas como por exemplo o estruturado, acabamos adaptando algumas coisas para para o paradigma lógico, mas o grupo conseguiu se adaptar bem com o novo paradigma.
+ 
+* Contribuições e Fragilidades
+   * Alguns membros tiveram mais facilidade no paradigma, logo os mesmo ficaram mais ativos no projeto.
+  
+* Trabalhos Futuros.
+   * Implementar o algoritmo de busca, tentamos implementar o algoritmo de Dijkstra porém encontramos algumas dificuldades, caso alguém queira terminar implementação fique atento com o tamanho da base dados e lembra de deixar os métodos o mais eficiente possível, caso você não faça isso, é bem provável que leve erro de estouro da memória heap.
 ## Fontes
 - swi=prolog: https://www.swi-prolog.org/
