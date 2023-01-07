@@ -91,7 +91,7 @@ TEMPO: +/- 15min
 |Guilherme Rogelin Vial	- 19/0014032	    |   -    | Boa                                                                       |
 | Liverson Furtado Severo	- 18/0022237	            | Criação da inicialização e menu do programa, adição de prevenções de erros do programa nos métodos de criar e retirar usuários e relacionamentos, correção do documento a rodar no dockerfile e atualização de algumas informações no REAME | Boa                                                                          |
 | Matheus Filipe Faria Alves de Andrade	- 14/0155350	 |   Auxílio na criação das funções de remoção de vértices e arestas   | Boa                                                                          |
-| Natanael Fernandes Coelho Filho	- 19/0058650	                 |    -   | Boa                                                                         |
+| Natanael Fernandes Coelho Filho	- 19/0058650	                 |    Elaboração de funções, sendo elas, remoção_aresta, remocao_vertice, nova_aresta_bi, e etc, além disso, busquei formas de aplicar o algoritmo de Dijsktra para buscar relacionamentos entre os usuários, cheguei até tentar utilizar funções geradas por inteligencias atificiais, entretanto, não funcionou corretamente.   | Boa                                                                         |
 
 ## Outros
 Quaisquer outras informações sobre o projeto podem ser descritas aqui. Não esqueça, entretanto, de informar sobre:
